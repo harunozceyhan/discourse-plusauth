@@ -8,4 +8,6 @@ const oidcClient = new OIDCClient({
 
 oidcClient.initialize().then( function(){
   // client initialized
-})
+});
+
+alert('sd')
